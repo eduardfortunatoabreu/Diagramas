@@ -1,9 +1,81 @@
-<mxfile host="app.diagrams.net" modified="2024-02-08T00:48:26.551Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" version="23.1.1" etag="YerceUL1TnvJulvvXWEJ" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-08T01:07:12.741Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="LsAuaJwNnWbuyorPGchM" version="23.1.1" type="github">
   <diagram name="Page-1" id="3APIjETXwuH5DsYp7p1r">
-    <mxGraphModel>
+    <mxGraphModel dx="878" dy="1614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="SAPBk8tlBKZ9aR09RMrr-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SAPBk8tlBKZ9aR09RMrr-1" target="SAPBk8tlBKZ9aR09RMrr-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SAPBk8tlBKZ9aR09RMrr-1" value="usuario" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="40" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SAPBk8tlBKZ9aR09RMrr-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SAPBk8tlBKZ9aR09RMrr-4" target="SAPBk8tlBKZ9aR09RMrr-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SAPBk8tlBKZ9aR09RMrr-4" value="Pantalla&amp;nbsp;&lt;br&gt;Inicio" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SAPBk8tlBKZ9aR09RMrr-6" value="1- Ingresar" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="40" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SAPBk8tlBKZ9aR09RMrr-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SAPBk8tlBKZ9aR09RMrr-7" target="SAPBk8tlBKZ9aR09RMrr-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SAPBk8tlBKZ9aR09RMrr-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SAPBk8tlBKZ9aR09RMrr-7" target="SAPBk8tlBKZ9aR09RMrr-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SAPBk8tlBKZ9aR09RMrr-7" value="Autenticar" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SAPBk8tlBKZ9aR09RMrr-9" value="2- Login" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="110" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SAPBk8tlBKZ9aR09RMrr-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SAPBk8tlBKZ9aR09RMrr-10" target="SAPBk8tlBKZ9aR09RMrr-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SAPBk8tlBKZ9aR09RMrr-10" value="Validar Credenciales" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SAPBk8tlBKZ9aR09RMrr-13" value="3- Ingresar&lt;br&gt;Credenciales" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="230" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SAPBk8tlBKZ9aR09RMrr-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SAPBk8tlBKZ9aR09RMrr-14" target="SAPBk8tlBKZ9aR09RMrr-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SAPBk8tlBKZ9aR09RMrr-14" value="Pantalla&lt;br&gt;Recepcion de e-CF" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SAPBk8tlBKZ9aR09RMrr-18" value="4- Acceder" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="150" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SAPBk8tlBKZ9aR09RMrr-19" value="Aprobar&amp;nbsp;&lt;br&gt;o&lt;br&gt;Rechazar" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SAPBk8tlBKZ9aR09RMrr-21" value="5- Acuse" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="230" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SAPBk8tlBKZ9aR09RMrr-22" value="DGII" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="200" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SAPBk8tlBKZ9aR09RMrr-23" value="SAP" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="300" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SAPBk8tlBKZ9aR09RMrr-28" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="SAPBk8tlBKZ9aR09RMrr-19" target="SAPBk8tlBKZ9aR09RMrr-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="300" as="sourcePoint" />
+            <mxPoint x="670" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SAPBk8tlBKZ9aR09RMrr-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="SAPBk8tlBKZ9aR09RMrr-19" target="SAPBk8tlBKZ9aR09RMrr-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="320" as="sourcePoint" />
+            <mxPoint x="720" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SAPBk8tlBKZ9aR09RMrr-31" value="STEM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="-60" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
