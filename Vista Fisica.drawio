@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-08T14:38:05.597Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="yYVJMxidsBEPeHoYcpIq" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-08T14:41:01.064Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="OZJiA9SXmeGhpBW3Mniu" version="23.1.1" type="github">
   <diagram name="Page-1" id="SBumNpIL5f2dvw_bnWDl">
     <mxGraphModel dx="878" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="310" y="100" width="250" height="120" as="geometry" />
         </mxCell>
         <mxCell id="6Ylm1_fSuR9k7BhFqcKW-2" value="Usuario" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="160" y="110" width="30" height="60" as="geometry" />
+          <mxGeometry x="75" y="110" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6Ylm1_fSuR9k7BhFqcKW-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6Ylm1_fSuR9k7BhFqcKW-2">
           <mxGeometry relative="1" as="geometry">
@@ -18,7 +18,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6Ylm1_fSuR9k7BhFqcKW-4" value="PC o Dispositivo&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="6Ylm1_fSuR9k7BhFqcKW-4" value="PC o Dispositivo movil" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="350" y="125" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6Ylm1_fSuR9k7BhFqcKW-5" value="Navegador" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -84,7 +84,7 @@
         <mxCell id="6Ylm1_fSuR9k7BhFqcKW-20" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
           <mxGeometry x="670" y="300" width="260" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="6Ylm1_fSuR9k7BhFqcKW-21" value="Sistema Externos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="6Ylm1_fSuR9k7BhFqcKW-21" value="Sistemas Externos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="690" y="320" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6Ylm1_fSuR9k7BhFqcKW-22" value="DGII&lt;br&gt;SAP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -97,6 +97,9 @@
               <mxPoint x="660" y="378" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="6Ylm1_fSuR9k7BhFqcKW-25" value="Ingresa&amp;nbsp; a traves de un dispositivo" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="105" y="110" width="210" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
