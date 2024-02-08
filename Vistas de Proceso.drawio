@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-08T15:56:40.160Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="EaLUnYw9ZMqgEpU6u8qT" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-08T15:58:26.065Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="zbk8aD43HLnve9udYAJA" version="23.1.1" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="878" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -31,7 +31,7 @@
         <mxCell id="AM0ow1BMnHBGBbMgDqAt-46" value="Emisor" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="AM0ow1BMnHBGBbMgDqAt-38" vertex="1">
           <mxGeometry x="25" y="38" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AM0ow1BMnHBGBbMgDqAt-54" value="dispatch" style="html=1;verticalAlign=bottom;startArrow=circle;startFill=1;endArrow=open;startSize=6;endSize=8;curved=0;rounded=0;" parent="AM0ow1BMnHBGBbMgDqAt-38" target="AM0ow1BMnHBGBbMgDqAt-55" edge="1">
+        <mxCell id="AM0ow1BMnHBGBbMgDqAt-54" value="" style="html=1;verticalAlign=bottom;startArrow=circle;startFill=1;endArrow=open;startSize=6;endSize=8;curved=0;rounded=0;" parent="AM0ow1BMnHBGBbMgDqAt-38" target="AM0ow1BMnHBGBbMgDqAt-55" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="140" y="44.5" as="sourcePoint" />
             <mxPoint x="220" y="44.5" as="targetPoint" />
